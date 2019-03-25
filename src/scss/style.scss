@@ -1,0 +1,22 @@
+@import "wrapper";
+@import "header";
+@import "about";
+@import "services";
+@import "portfolio";
+@import "reviews";
+@import "contact";
+@import "footer";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+button {
+  height: 46px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(7, 181, 105);
+  border: none;
+  cursor: pointer;
+}
