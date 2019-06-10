@@ -1,4 +1,4 @@
-http://pwesolowski.pl/github/landing/
+http://pwesolowski.nazwa.pl/github/landing/
 
 1. clone repository,
 2. command: npm install
